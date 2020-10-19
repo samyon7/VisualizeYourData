@@ -1,4 +1,4 @@
-// coded by @Nguy3n
+// AUTHOR : HAMORA HADI, KHEVIN PANDAPOTAN, YEHEZKIEL TATO
 const projectName = 'heat-map';
 localStorage.setItem('example_project', 'Heat Map');
 
